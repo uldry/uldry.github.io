@@ -107,14 +107,8 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title:
-  url: 
 - title: Blog
   url: /blog/
-- title: 
-  url: /categories/
-- title: 
-  url: /search/
 - title: My projects
   url: https://github.com/uldry
 
