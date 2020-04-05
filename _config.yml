@@ -108,7 +108,7 @@ navigation_header:
 - title: Home
   url: /
 
-" For now it's all on the main page
+# For now it's all on the main page
 #- title: Blog
 #  url: /blog/
 - title: My projects
